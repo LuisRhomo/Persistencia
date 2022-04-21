@@ -1,0 +1,5 @@
+com\mycompany\alumnopersistencia\AlumnoDAO.class
+com\mycompany\alumnopersistencia\App.class
+com\mycompany\alumnopersistencia\Alumno.class
+com\mycompany\alumnopersistencia\AlumnoDAOImpl.class
+com\mycompany\alumnopersistencia\AlumnoController.class
