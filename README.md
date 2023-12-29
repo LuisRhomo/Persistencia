@@ -1,4 +1,4 @@
-Ejercioios con diferente tipo de persistencia
+Ejercicios con diferente tipo de persistencia
 
 --Programa PersistenciaAlumno
 Programa que realiza las operaciones CRUD de un Alumno con menu inicial.
